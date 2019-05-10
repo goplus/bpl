@@ -1,8 +1,6 @@
 BPL - Binary Processing Language
 ============
 
-[![Build Status](https://travis-ci.com/qbox/bpl.svg?token=8Frioiaq36bhxZs3jYgn&branch=master)](https://travis-ci.com/qbox/bpl)
-
 ## 快速入门
 
 了解 BPL 最快的方式是学习 qbpl 和 qbplproxy 两个实用程序：
@@ -58,7 +56,7 @@ qbplproxy -h localhost:27017 -b localhost:37017
 
 格式描述：
 
-* [rtmp.bpl](https://github.com/qbox/bpl/blob/develop/formats/rtmp.bpl)
+* [rtmp.bpl](formats/rtmp.bpl)
 
 测试：
 
@@ -112,18 +110,11 @@ qbplproxy -f 'reqMode=play' -h localhost:1935 -b localhost:1936 -p formats/rtmp.
 
 格式描述：
 
-* [flv.bpl](https://github.com/qbox/bpl/blob/develop/formats/flv.bpl)
+* [flv.bpl](formats/flv.bpl)
 
 测试：
 
-1) 启动一个 rtmp/flv server，让其监听 1935/8135 端口。这里我们用 [streamgate-example](https://github.com/qbox/pili-streamgate/tree/develop/src/pili.github.com/qiniu/app/streamgate-example)：
-
-```
-git clone git@github.com:qbox/pili-streamgate.git
-cd pili-streamgate
-make
-./go.sh  #用 ./stop.sh 来停止服务
-```
+1) 启动一个 rtmp/flv server，让其监听 1935/8135 端口。
 
 2) 启动 qbplproxy：
 
@@ -146,14 +137,14 @@ ffmpeg -re -i test.m4v -c:v copy -c:a copy -f flv rtmp://localhost/live/123
 
 格式描述：
 
-* [webrtc.bpl](https://github.com/qbox/bpl/blob/develop/formats/webrtc.bpl)
+* [webrtc.bpl](formats/webrtc.bpl)
 
 
 ### MongoDB 协议
 
 格式描述：
 
-* [mongo.bpl](https://github.com/qbox/bpl/blob/develop/formats/mongo.bpl)
+* [mongo.bpl](formats/mongo.bpl)
 
 测试：
 
@@ -189,7 +180,7 @@ TODO
 
 格式描述：
 
-* [ts.bpl](https://github.com/qbox/bpl/blob/develop/formats/ts.bpl)
+* [ts.bpl](formats/ts.bpl)
 
 测试：TODO
 
@@ -197,7 +188,7 @@ TODO
 
 格式描述：
 
-* [flv.bpl](https://github.com/qbox/bpl/blob/develop/formats/flv.bpl)
+* [flv.bpl](formats/flv.bpl)
 
 测试：TODO
 
@@ -205,7 +196,7 @@ TODO
 
 格式描述：
 
-* [mp4.bpl](https://github.com/qbox/bpl/blob/develop/formats/mp4.bpl)
+* [mp4.bpl](formats/mp4.bpl)
 
 测试：
 
@@ -217,7 +208,7 @@ qbpl -p formats/mp4.bpl <example>.mp4
 
 格式描述：
 
-* [gif.bpl](https://github.com/qbox/bpl/blob/develop/formats/gif.bpl)
+* [gif.bpl](formats/gif.bpl)
 
 测试：
 
