@@ -33,7 +33,7 @@ qbplproxy 可用来分析服务器和客户端之间的网络包。它通过代�
 qbplproxy -h <listenIp:port> -b <backendIp:port> [-p <protocol>.bpl -f <filter> -o <output>.log]
 ```
 
-其中，`<listenIp:port>` 是 qbplproxy 自身监听的IP和端口，`<backendIp:port>` 是原始的服务。`-p <filter>` 是过滤条件，这个条件通过 BPL_FILTER 全局变量传递到 bpl 中。
+其中，`<listenIp:port>` 是 qbplproxy 自身监听的IP和端口，`<backendIp:port>` 是原始的服务。`-f <filter>` 是过滤条件，这个条件通过 BPL_FILTER 全局变量传递到 bpl 中。
 
 多数情况下，你不需要指定 `-p <protocol>.bpl` 参数，qbplproxy 程序可以根据你监听的端口来猜测网络协议。例如：
 
