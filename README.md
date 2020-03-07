@@ -1,6 +1,10 @@
 BPL - Binary Processing Language
 ============
 
+[![Build Status](https://travis-ci.org/qiniu/bpl.png?branch=master)](https://travis-ci.org/qiniu/bpl) [![GoDoc](https://godoc.org/github.com/qiniu/bpl?status.svg)](https://godoc.org/github.com/qiniu/bpl) [![Go Report Card](https://goreportcard.com/badge/github.com/qiniu/bpl)](https://goreportcard.com/report/github.com/qiniu/bpl)
+
+[![Qiniu Logo](http://open.qiniudn.com/logo.png)](http://www.qiniu.com/)
+
 ## 快速入门
 
 了解 BPL 最快的方式是学习 qbpl 和 qbplproxy 两个实用程序：
