@@ -1,5 +1,6 @@
 language: go
 sudo: false
 script:
+  - export GO111MODULE="on"
   - make
   - make test
