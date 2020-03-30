@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	"qiniupkg.com/x/bufiox.v7"
+	"github.com/qiniu/x/bufiox"
 )
 
 // -----------------------------------------------------------------------------

@@ -14,11 +14,11 @@ import (
 	"strings"
 
 	"github.com/qiniu/bpl"
-	"qlang.io/qlang.spec.v1"
+	"github.com/qiniu/text/tpl/interpreter"
+	"github.com/qiniu/x/bufiox"
+	"github.com/qiniu/x/log"
 
-	"qiniupkg.com/text/tpl.v1/interpreter"
-	"qiniupkg.com/x/bufiox.v7"
-	"qiniupkg.com/x/log.v7"
+	qlang "github.com/qiniu/qlang/spec"
 )
 
 // -----------------------------------------------------------------------------

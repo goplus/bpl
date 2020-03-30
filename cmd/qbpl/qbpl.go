@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 
 	bpl "github.com/qiniu/bpl/bpl.ext"
-	"qiniupkg.com/x/log.v7"
+	"github.com/qiniu/x/log"
 )
 
 var (

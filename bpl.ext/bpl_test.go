@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"qlang.io/qlang.spec.v1"
+	"github.com/qiniu/qlang/spec"
 
 	"github.com/qiniu/bpl/binary"
 )

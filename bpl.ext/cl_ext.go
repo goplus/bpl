@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/qiniu/bpl"
-	"qiniupkg.com/text/tpl.v1/interpreter.util"
-	"qlang.io/exec.v2"
+	"github.com/qiniu/qlang/exec"
+	"github.com/qiniu/text/tpl/interpreter.util"
 )
 
 // -----------------------------------------------------------------------------

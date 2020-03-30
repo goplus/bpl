@@ -9,8 +9,8 @@ import (
 	"reflect"
 	"runtime/debug"
 
-	"qiniupkg.com/x/bufiox.v7"
-	"qlang.io/exec.v2"
+	"github.com/qiniu/qlang/exec"
+	"github.com/qiniu/x/bufiox"
 )
 
 // -----------------------------------------------------------------------------

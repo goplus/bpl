@@ -9,7 +9,7 @@ import (
 
 	"github.com/qiniu/bpl"
 	bin "github.com/qiniu/bpl/binary"
-	"qiniupkg.com/x/bufiox.v7"
+	"github.com/qiniu/x/bufiox"
 )
 
 type fixedType struct {

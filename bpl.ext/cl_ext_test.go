@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/qiniu/bpl/binary"
-	"qiniupkg.com/x/bufiox.v7"
+	"github.com/qiniu/x/bufiox"
 )
 
 // -----------------------------------------------------------------------------

@@ -6,22 +6,22 @@ import (
 	"reflect"
 	"strconv"
 
-	"qlang.io/exec.v2"
-	"qlang.io/qlang.spec.v1"
-	"qlang.io/qlang/bytes"
-	"qlang.io/qlang/crypto/hmac"
-	"qlang.io/qlang/crypto/md5"
-	"qlang.io/qlang/crypto/sha1"
-	"qlang.io/qlang/crypto/sha256"
-	"qlang.io/qlang/encoding/hex"
-	"qlang.io/qlang/encoding/json"
-	"qlang.io/qlang/errors"
-	"qlang.io/qlang/io"
-	"qlang.io/qlang/strings"
+	"github.com/qiniu/qlang/exec"
+	"github.com/qiniu/qlang/lib/bytes"
+	"github.com/qiniu/qlang/lib/crypto/hmac"
+	"github.com/qiniu/qlang/lib/crypto/md5"
+	"github.com/qiniu/qlang/lib/crypto/sha1"
+	"github.com/qiniu/qlang/lib/crypto/sha256"
+	"github.com/qiniu/qlang/lib/encoding/hex"
+	"github.com/qiniu/qlang/lib/encoding/json"
+	"github.com/qiniu/qlang/lib/errors"
+	"github.com/qiniu/qlang/lib/io"
+	"github.com/qiniu/qlang/lib/strings"
 
 	// import qlang builtin
-	_ "qlang.io/qlang/builtin"
-	qstrconv "qlang.io/qlang/strconv"
+	_ "github.com/qiniu/qlang/lib/builtin"
+	qstrconv "github.com/qiniu/qlang/lib/strconv"
+	qlang "github.com/qiniu/qlang/spec"
 )
 
 // -----------------------------------------------------------------------------

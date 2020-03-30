@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"reflect"
 
-	"qiniupkg.com/x/bufiox.v7"
+	"github.com/qiniu/x/bufiox"
 )
 
 var (

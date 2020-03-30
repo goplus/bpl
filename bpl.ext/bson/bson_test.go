@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
+	"github.com/qiniu/x/bufiox"
 	"gopkg.in/mgo.v2/bson"
-	"qiniupkg.com/x/bufiox.v7"
 )
 
 // -----------------------------------------------------------------------------

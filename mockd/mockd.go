@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/qiniu/bpl/hex"
-	"qiniupkg.com/x/log.v7"
+	"github.com/qiniu/x/log"
 )
 
 // -----------------------------------------------------------------------------

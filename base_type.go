@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	"qiniupkg.com/x/log.v7"
+	"github.com/qiniu/x/log"
 )
 
 // -----------------------------------------------------------------------------

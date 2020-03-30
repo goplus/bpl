@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/qiniu/bpl"
-	"qiniupkg.com/x/bufiox.v7"
+	"github.com/qiniu/x/bufiox"
 )
 
 func TestBaseType(t *testing.T) {
