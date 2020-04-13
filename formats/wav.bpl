@@ -55,7 +55,7 @@ defaultChunk = {
 // -------------------------------------------------------------------------------------
 
 monoBlockHeader = {
-    Sample0  uint16  // block 中第一个未压缩的采样值
+    Sample0  int16  // block 中第一个未压缩的采样值
     Index    byte
     Reserved byte
 }
