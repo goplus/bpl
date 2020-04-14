@@ -67,7 +67,7 @@ block = {
 }
 
 dataChunk = case nFormat {
-    0x11: *block
+    0x11: dump *block
     default: defaultChunk
 }
 
