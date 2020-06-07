@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/qiniu/bpl"
-	"github.com/qiniu/qlang/exec"
+	"github.com/xushiwei/qlang/exec"
 )
 
 // -----------------------------------------------------------------------------

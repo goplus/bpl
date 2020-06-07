@@ -6,8 +6,8 @@ import (
 
 	"github.com/qiniu/bpl"
 	"github.com/qiniu/bpl/bpl.ext/bson"
-	"github.com/qiniu/qlang/exec"
 	"github.com/qiniu/text/tpl/interpreter.util"
+	"github.com/xushiwei/qlang/exec"
 )
 
 const grammar = `

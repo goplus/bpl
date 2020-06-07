@@ -18,7 +18,7 @@ import (
 	"github.com/qiniu/x/bufiox"
 	"github.com/qiniu/x/log"
 
-	qlang "github.com/qiniu/qlang/spec"
+	qlang "github.com/xushiwei/qlang/spec"
 )
 
 // -----------------------------------------------------------------------------

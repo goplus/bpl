@@ -14,7 +14,7 @@ import (
 	"strings"
 
 	bpl "github.com/qiniu/bpl/bpl.ext"
-	"github.com/qiniu/qlang/spec"
+	qlang "github.com/xushiwei/qlang/spec"
 
 	"github.com/qiniu/x/log"
 )

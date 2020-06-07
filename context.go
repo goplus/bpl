@@ -9,8 +9,8 @@ import (
 	"reflect"
 	"runtime/debug"
 
-	"github.com/qiniu/qlang/exec"
 	"github.com/qiniu/x/bufiox"
+	"github.com/xushiwei/qlang/exec"
 )
 
 // -----------------------------------------------------------------------------
