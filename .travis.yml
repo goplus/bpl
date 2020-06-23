@@ -1,9 +1,9 @@
 language: go
 go:
-  - "1.13"
   - "1.14"
 sudo: false
 script:
-  - export GO111MODULE="on"
-  - make
-  - make test
+  - go install -v ./...
+  - go test -race -coverprofile=coverage.txt -covermode=atomic ./...
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
