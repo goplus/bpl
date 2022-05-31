@@ -3,11 +3,9 @@ BPL - Binary Processing Language
 
 [![Build Status](https://github.com/goplus/bpl/actions/workflows/go.yml/badge.svg)](https://github.com/goplus/bpl/actions/workflows/go.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/goplus/bpl)](https://goreportcard.com/report/github.com/goplus/bpl)
-[![GitHub release](https://img.shields.io/github/v/tag/qiniu/bpl.svg?label=release)](https://github.com/goplus/bpl/releases)
-[![Coverage Status](https://codecov.io/gh/qiniu/bpl/branch/master/graph/badge.svg)](https://codecov.io/gh/qiniu/bpl)
+[![GitHub release](https://img.shields.io/github/v/tag/goplus/bpl.svg?label=release)](https://github.com/goplus/bpl/releases)
+[![Coverage Status](https://codecov.io/gh/goplus/bpl/branch/master/graph/badge.svg)](https://codecov.io/gh/goplus/bpl)
 [![GoDoc](https://img.shields.io/badge/Godoc-reference-blue.svg)](https://godoc.org/github.com/goplus/bpl)
-
-[![Qiniu Logo](http://open.qiniudn.com/logo.png)](http://www.qiniu.com/)
 
 ## 快速入门
 
