@@ -5,7 +5,7 @@ BPL - Binary Processing Language
 [![Go Report Card](https://goreportcard.com/badge/github.com/goplus/bpl)](https://goreportcard.com/report/github.com/goplus/bpl)
 [![GitHub release](https://img.shields.io/github/v/tag/goplus/bpl.svg?label=release)](https://github.com/goplus/bpl/releases)
 [![Coverage Status](https://codecov.io/gh/goplus/bpl/branch/master/graph/badge.svg)](https://codecov.io/gh/goplus/bpl)
-[![GoDoc](https://img.shields.io/badge/Godoc-reference-blue.svg)](https://godoc.org/github.com/goplus/bpl)
+[![GoDoc](https://pkg.go.dev/badge/github.com/goplus/bpl.svg)](https://pkg.go.dev/mod/github.com/goplus/bpl)
 
 ## 快速入门
 
