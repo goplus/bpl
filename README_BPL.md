@@ -388,7 +388,7 @@ const (
 
 record = {
 	tag [N]char
-    assert tag == "GIF87a" || tag == "GIF89a"
+	assert tag == "GIF87a" || tag == "GIF89a"
 }
 ```
 
