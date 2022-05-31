@@ -3,7 +3,7 @@ package bpl
 import (
 	"fmt"
 
-	"github.com/qiniu/bpl"
+	"github.com/goplus/bpl"
 	"github.com/xushiwei/qlang/exec"
 )
 

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/qiniu/bpl"
+	"github.com/goplus/bpl"
 	"github.com/qiniu/x/bufiox"
 )
 

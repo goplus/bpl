@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/qiniu/bpl/mockd"
+	"github.com/goplus/bpl/mockd"
 )
 
 var (

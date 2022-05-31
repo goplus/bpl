@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net"
 
-	"github.com/qiniu/bpl/hex"
+	"github.com/goplus/bpl/hex"
 )
 
 // -----------------------------------------------------------------------------

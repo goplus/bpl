@@ -7,7 +7,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/qiniu/bpl/hex"
+	"github.com/goplus/bpl/hex"
 	"github.com/qiniu/x/log"
 )
 

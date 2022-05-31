@@ -13,7 +13,7 @@ import (
 	"reflect"
 	"strings"
 
-	bpl "github.com/qiniu/bpl/bpl.ext"
+	bpl "github.com/goplus/bpl/bpl.ext"
 	qlang "github.com/xushiwei/qlang/spec"
 
 	"github.com/qiniu/x/log"

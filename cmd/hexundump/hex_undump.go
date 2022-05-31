@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/qiniu/bpl/hex"
+	"github.com/goplus/bpl/hex"
 )
 
 // Usage: hexundump <hexdump-file> <binary-file>

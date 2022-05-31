@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	bpl "github.com/qiniu/bpl/bpl.ext"
+	bpl "github.com/goplus/bpl/bpl.ext"
 	"github.com/qiniu/x/log"
 )
 

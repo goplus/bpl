@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/qiniu/bpl"
-	"github.com/qiniu/bpl/bpl.ext/bson"
+	"github.com/goplus/bpl"
+	"github.com/goplus/bpl/bpl.ext/bson"
 	"github.com/qiniu/text/tpl/interpreter.util"
 	"github.com/xushiwei/qlang/exec"
 )

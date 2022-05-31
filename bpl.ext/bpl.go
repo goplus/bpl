@@ -13,7 +13,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/qiniu/bpl"
+	"github.com/goplus/bpl"
 	"github.com/qiniu/text/tpl/interpreter"
 	"github.com/qiniu/x/bufiox"
 	"github.com/qiniu/x/log"

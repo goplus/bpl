@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/qiniu/bpl"
-	bin "github.com/qiniu/bpl/binary"
+	"github.com/goplus/bpl"
+	bin "github.com/goplus/bpl/binary"
 	"github.com/qiniu/x/bufiox"
 )
 

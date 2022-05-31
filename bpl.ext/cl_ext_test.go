@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/qiniu/bpl/binary"
+	"github.com/goplus/bpl/binary"
 	"github.com/qiniu/x/bufiox"
 )
 

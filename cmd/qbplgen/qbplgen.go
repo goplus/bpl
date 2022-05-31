@@ -8,7 +8,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/qiniu/bpl/go/codegen"
+	"github.com/goplus/bpl/go/codegen"
 )
 
 // qbplgen <protocol>.bpl qbpl|qbplproxy

@@ -7,8 +7,8 @@ import (
 	"io"
 	"reflect"
 
+	"github.com/goplus/bpl"
 	"gopkg.in/mgo.v2/bson"
-	"github.com/qiniu/bpl"
 )
 
 // -----------------------------------------------------------------------------

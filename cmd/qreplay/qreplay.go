@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/qiniu/bpl/replay"
+	"github.com/goplus/bpl/replay"
 )
 
 var (

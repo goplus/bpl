@@ -1,12 +1,12 @@
 BPL - Binary Processing Language
 ============
 
-[![LICENSE](https://img.shields.io/github/license/qiniu/bpl.svg)](https://github.com/qiniu/bpl/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/qiniu/bpl.svg)](https://github.com/goplus/bpl/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/qiniu/bpl.svg?branch=master)](https://travis-ci.org/qiniu/bpl)
-[![Go Report Card](https://goreportcard.com/badge/github.com/qiniu/bpl)](https://goreportcard.com/report/github.com/qiniu/bpl)
-[![GitHub release](https://img.shields.io/github/v/tag/qiniu/bpl.svg?label=release)](https://github.com/qiniu/bpl/releases)
+[![Go Report Card](https://goreportcard.com/badge/github.com/goplus/bpl)](https://goreportcard.com/report/github.com/goplus/bpl)
+[![GitHub release](https://img.shields.io/github/v/tag/qiniu/bpl.svg?label=release)](https://github.com/goplus/bpl/releases)
 [![Coverage Status](https://codecov.io/gh/qiniu/bpl/branch/master/graph/badge.svg)](https://codecov.io/gh/qiniu/bpl)
-[![GoDoc](https://img.shields.io/badge/Godoc-reference-blue.svg)](https://godoc.org/github.com/qiniu/bpl)
+[![GoDoc](https://img.shields.io/badge/Godoc-reference-blue.svg)](https://godoc.org/github.com/goplus/bpl)
 
 [![Qiniu Logo](http://open.qiniudn.com/logo.png)](http://www.qiniu.com/)
 

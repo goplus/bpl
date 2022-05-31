@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/qiniu/bpl"
+	"github.com/goplus/bpl"
 	"github.com/qiniu/text/tpl/interpreter.util"
 	"github.com/xushiwei/qlang/exec"
 )

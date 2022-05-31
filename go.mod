@@ -1,4 +1,4 @@
-module github.com/qiniu/bpl
+module github.com/goplus/bpl
 
 go 1.14
 
